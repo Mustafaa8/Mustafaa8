@@ -1,16 +1,20 @@
 ## Hi there 👋
+this is Mostafa Abdallah From egypt
+I am a backend Developer who seeks to learn and know more about programming
 
-<!--
-**Mustafaa8/Mustafaa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack
 
-Here are some ideas to get you started:
+### Programming languages
+[![Programming languages](https://skillicons.dev/icons?i=js,ts,html,css,py,go,cpp)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Technologes 
+[![Backend](https://skillicons.dev/icons?i=nodejs,bun,express,npm,prisma,drizzle)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,vscode,anaconda,github,docker)](https://skillicons.dev)
+
+### Graphic Design Tools
+[![Tools](https://skillicons.dev/icons?i=ai,ph,github,docker)](https://skillicons.dev)
