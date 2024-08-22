@@ -2,7 +2,7 @@
 this is Mostafa Abdallah From egypt
 I am a backend Developer who seeks to learn and know more about programming
 
-## Stack
+## Skills 
 ### Programming languages
 [![Programming languages](https://skillicons.dev/icons?i=js,ts,html,css,py,go,cpp)](https://skillicons.dev)
 ### Backend Technologes 
